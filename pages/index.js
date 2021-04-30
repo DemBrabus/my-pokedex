@@ -6,7 +6,7 @@ function Home(props) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Pokedex!</title>
+        <title>My Pokédex DBS</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
